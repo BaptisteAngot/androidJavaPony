@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DemoCours</string>
+    <string name="coucou">Hello les 4MI</string>
+    <string name="clickme">Click me</string>
+    <string name="addPony">Save the Pony</string>
+    <string name="cancel">Cancel</string>![](../../../../../../../../../AppData/Local/Temp/download.jpg)
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="ex_qotes">
+        <item>RTFM</item>
+        <item>42</item>
+        <item>Dans le doute redemarre</item>
+        <item> Alt F4</item>
+        <item>Putain le cache merde j\'ai oublie</item>
+    </string-array>
+
+    <string-array name="ex_pony">
+        <item>Petit tonnere</item>
+        <item>Tempête</item>
+        <item>Eclair</item>
+    </string-array>
+
+</resources>
